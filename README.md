@@ -42,4 +42,8 @@ Should behave like: cmd << LIMITER | cmd1 >> file
 
 <img width="63" alt="image" src="https://user-images.githubusercontent.com/66158938/200158152-036c79ef-eb80-4658-8aab-9d3519bc6540.png">
 
+### References:
+https://www.rozmichelle.com/pipes-forks-dups/
+Code vault youtube channel: Unix processes in C
+
 
