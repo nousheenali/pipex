@@ -1,6 +1,8 @@
 # pipex
 
-Program to implement pipe function in unix.
+Program to implement pipe function in unix. Also handles input, output and here_doc redirection operators.
+
+![MS Paint _ Microsoft Paint Online](https://user-images.githubusercontent.com/66158938/201291242-4cfaf0b3-197a-46e5-824e-d0f7285c20ea.png)
 
 MANDATORY PART
 --------------
