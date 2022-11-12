@@ -1,8 +1,11 @@
 # pipex
 
-Program to implement pipe function in unix. Also handles input, output and here_doc redirection operators.
+C program to emulate a unix mechanism called pipe . The program uses fork() and pipe() features of C language to demonstrate multiple process creation and inter-process communication. The program also handles here_doc, input redirection and output redirection operators to read from standard input, to read from an input file descriptor and to write to an output file descriptor respectively.
 
 ![MS Paint _ Microsoft Paint Online](https://user-images.githubusercontent.com/66158938/201291242-4cfaf0b3-197a-46e5-824e-d0f7285c20ea.png)
+
+<img width="562" alt="Screen Shot 2022-11-12 at 10 38 26 AM" src="https://user-images.githubusercontent.com/66158938/201461163-36e97c78-62bf-48c4-9ed3-d89e9546f6d1.png">
+
 
 MANDATORY PART
 --------------
